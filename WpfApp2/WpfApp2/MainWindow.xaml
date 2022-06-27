@@ -19,15 +19,15 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
-        <Button x:Name="Button_0_0" Grid.Row="0" Grid.Column="0" FontSize="30" Click="Button_Click" />
-        <Button x:Name="Button_1_0" Grid.Row="1" Grid.Column="0" FontSize="30" Click="Button_Click"/>
-        <Button x:Name="Button_2_0" Grid.Row="2" Grid.Column="0" FontSize="30" Click="Button_Click"/>
-        <Button x:Name="Button_0_1" Grid.Row="0" Grid.Column="1" FontSize="30" Click="Button_Click"/>
-        <Button x:Name="Button_1_1" Grid.Row="1" Grid.Column="1" FontSize="30" Click="Button_Click"/>
-        <Button x:Name="Button_2_1" Grid.Row="2" Grid.Column="1" FontSize="30" Click="Button_Click"/>
-        <Button x:Name="Button_0_2" Grid.Row="0" Grid.Column="2" FontSize="30" Click="Button_Click"/>
-        <Button x:Name="Button_1_2" Grid.Row="1" Grid.Column="2" FontSize="30" Click="Button_Click"/>
-        <Button x:Name="Button_2_2" Grid.Row="2" Grid.Column="2" FontSize="30" Click="Button_Click"/>
+        <Button x:Name="Button_0_0" Grid.Row="0" Grid.Column="0" FontSize="30" Click="Button_Click" Margin="8,8,8,8"/>
+        <Button x:Name="Button_1_0" Grid.Row="1" Grid.Column="0" FontSize="30" Click="Button_Click" Margin="8,8,8,8"/>
+        <Button x:Name="Button_2_0" Grid.Row="2" Grid.Column="0" FontSize="30" Click="Button_Click" Margin="8,8,8,8"/>
+        <Button x:Name="Button_0_1" Grid.Row="0" Grid.Column="1" FontSize="30" Click="Button_Click" Margin="8,8,8,8"/>
+        <Button x:Name="Button_1_1" Grid.Row="1" Grid.Column="1" FontSize="30" Click="Button_Click" Margin="8,8,8,8"/>
+        <Button x:Name="Button_2_1" Grid.Row="2" Grid.Column="1" FontSize="30" Click="Button_Click" Margin="8,8,8,8"/>
+        <Button x:Name="Button_0_2" Grid.Row="0" Grid.Column="2" FontSize="30" Click="Button_Click" Margin="8,8,8,8"/>
+        <Button x:Name="Button_1_2" Grid.Row="1" Grid.Column="2" FontSize="30" Click="Button_Click" Margin="8,8,8,8"/>
+        <Button x:Name="Button_2_2" Grid.Row="2" Grid.Column="2" FontSize="30" Click="Button_Click" Margin="8,8,8,8"/>
 
 
     </Grid>
