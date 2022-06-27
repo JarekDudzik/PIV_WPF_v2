@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FUJITSU\\Dysk Google\\ATH\\__Github\\WPF\\PIV-WPF-v1\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
+      "projectUniqueName": "C:\\Users\\FUJITSU\\Dysk Google\\ATH\\__Github\\WPF\\PIV-WPF-v2\\PIV_WPF_v2\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
       "projectName": "WpfApp2",
-      "projectPath": "C:\\Users\\FUJITSU\\Dysk Google\\ATH\\__Github\\WPF\\PIV-WPF-v1\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
+      "projectPath": "C:\\Users\\FUJITSU\\Dysk Google\\ATH\\__Github\\WPF\\PIV-WPF-v2\\PIV_WPF_v2\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
       "packagesPath": "C:\\Users\\FUJITSU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FUJITSU\\Dysk Google\\ATH\\__Github\\WPF\\PIV-WPF-v1\\WpfApp2\\WpfApp2\\obj\\",
+      "outputPath": "C:\\Users\\FUJITSU\\Dysk Google\\ATH\\__Github\\WPF\\PIV-WPF-v2\\PIV_WPF_v2\\WpfApp2\\WpfApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FUJITSU\\AppData\\Roaming\\NuGet\\NuGet.Config",
