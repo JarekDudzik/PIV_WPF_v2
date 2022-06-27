@@ -48,12 +48,10 @@ namespace WpfApp1
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-
+            PrzyciskNaObrazek.Content = "dowolny tekst";
+         
         }
 
-        private void Button_Click_2(object sender, RoutedEventArgs e)
-        {
-           
-        }
+ 
     }
 }

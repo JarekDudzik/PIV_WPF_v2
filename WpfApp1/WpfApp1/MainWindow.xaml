@@ -7,16 +7,23 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
-        <Button x:Name="Przycisk1" Content="Kliknij mnie" HorizontalAlignment="Left" Margin="264,95,0,0" VerticalAlignment="Top" Height="84" Width="182" Click="Button_Click" Background="#FF2655B1"/>
+
+        <Button x:Name="Przycisk1" Content="Kliknij mnie" HorizontalAlignment="Left" Margin="241,24,0,0" VerticalAlignment="Top" Height="84" Width="182" Click="Button_Click" Background="#FF2655B1"/>
         <Label Content="Label1" x:Name="label1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="74" Width="182" Margin="82,124,0,0"/>
-        <Button x:Name="___Przycisk2_" Content="Przycisk2" HorizontalAlignment="Left" Height="67" Margin="305,217,0,0" VerticalAlignment="Top" Width="182" Click="Button_Click_1" RenderTransformOrigin="0.5,0.5">
+        <Button x:Name="___Przycisk2_" Content="Przycisk2" HorizontalAlignment="Left" Height="67" Margin="556,32,0,0" VerticalAlignment="Top" Width="182" Click="Button_Click_1" RenderTransformOrigin="0.5,0.5">
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="Black"/>
                     <GradientStop Color="White" Offset="1"/>
                 </LinearGradientBrush>
             </Button.Background>
+        </Button>
+        <Button Name="PrzyciskNaObrazek" Click="Button_Click_1" HorizontalAlignment="Left" Height="168" Margin="10,186,0,0" VerticalAlignment="Top" Width="728">
+            <Grid>
+                <Image Source="/obraz1.jpg" Stretch="None"/>
+                <Button Name="DrugiGuzik" Click="Button_Click_1" Content="DrugiGuzik"   Background="LimeGreen" Margin="-172,0,431,0">
+                </Button>
+            </Grid>
         </Button>
     </Grid>
 </Window>
