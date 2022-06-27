@@ -1,3 +1,7 @@
 Kolko i krzyzyk;
 C#	https://pastebin.pl/view/351b869e
 XAML	https://pastebin.pl/view/125129a1
+
+Grid Splitter
+https://pastebin.pl/view/fc6d0b6a	pionowy
+https://pastebin.pl/view/7021dc38	poziomy
