@@ -25,7 +25,14 @@ namespace WpfApp1
 
         public MainWindow()
         {
-       
+            InitializeComponent();
+            label1.Content = 0;
+
+            Grid grid = new Grid();
+            Button button = new Button();
+            button.Content = "Button 2";
+
+            grid.Children.Add(button);
         }
 
  

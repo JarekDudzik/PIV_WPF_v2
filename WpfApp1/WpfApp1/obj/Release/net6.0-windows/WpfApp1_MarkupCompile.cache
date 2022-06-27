@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\FUJITSU\Dysk Google\ATH\__Github\WPF\PIV-WPF-v2\PIV_WPF_v2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\
+C:\Users\FUJITSU\Dysk Google\ATH\__Github\WPF\PIV-WPF-v2\PIV_WPF_v2\WpfApp1\WpfApp1\obj\Release\net6.0-windows\
 WpfApp1
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\FUJITSU\Dysk Google\ATH\__Github\WPF\PIV-WPF-v2\PIV_WPF_v2\WpfApp1\WpfApp1\App.xaml
 11407045341
 
