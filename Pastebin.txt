@@ -5,3 +5,11 @@ XAML	https://pastebin.pl/view/125129a1
 Grid Splitter
 https://pastebin.pl/view/fc6d0b6a	pionowy
 https://pastebin.pl/view/7021dc38	poziomy
+
+New Button
+https://pastebin.pl/view/fab45a28	C#
+https://pastebin.pl/view/b265a910	XAML
+
+
+StackPanel	WrapPanel  DockPanel
+https://pastebin.pl/view/d46f1e45
